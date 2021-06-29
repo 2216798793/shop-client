@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2>为生命为什么</h2>
+    <h2>为生命为大撒大撒什么</h2>
   </div>
 </template>
 
