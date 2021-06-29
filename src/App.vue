@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    adfasdadd
+    <h2>为生命为什么</h2>
   </div>
 </template>
 
